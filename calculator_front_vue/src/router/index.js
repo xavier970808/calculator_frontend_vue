@@ -1,5 +1,5 @@
 import { createRouter, createWebHistory } from 'vue-router'
-
+import HomeView from '@/views/HomeView.vue'
 import 一般計算機 from '@/views/一般計算機.vue'
 import 函數繪圖 from '@/views/函數繪圖.vue'
 
